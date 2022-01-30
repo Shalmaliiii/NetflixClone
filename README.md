@@ -1,4 +1,4 @@
-### Link to deployed project : [Netflic Clone](https://netflixclone-b41bd.web.app/)
+### Link to deployed project : [Netflix Clone](https://netflixclone-b41bd.web.app/)
 
 # Getting Started with Create React App
 
